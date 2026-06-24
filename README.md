@@ -36,6 +36,7 @@ python fanuc.py
 ```
 
 On first launch, select a folder containing your CNC programs. The app will scan and index all files. The index is saved as `index.json` inside the scanned folder.
+For initial use you can import alati.json file that have initial 1-400 T numbers, all tools have "null" as tool name value, and then you can modify tool names using GUI, or .json file itself 
 
 ---
 
